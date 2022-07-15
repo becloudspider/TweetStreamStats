@@ -1,7 +1,7 @@
 # TweetStreamStats
 Generate stats from Twitter sample stream endpoint
 
-Before running code please replace  TweeterBearerToken: *{ReplaceMe}*.
+Before running code please replace  TweeterBearerToken: *{ReplaceMe}*. In ServerWebApi/appsettings.json 
 
 In visual studio, configure startup to run multiple projects.
 
